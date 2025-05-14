@@ -7,3 +7,20 @@
     width: 100%;
     object-fit: cover;
 }
+
+h2 {
+    text-align: center;
+}
+
+h2 p {
+    text-align: start;
+}
+
+#about {
+    padding: 50px 80px 10px 80px;
+}
+
+.testimonials {
+    background-color: #212E50;
+    color: white;
+}
