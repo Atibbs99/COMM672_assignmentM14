@@ -24,3 +24,7 @@ h2 p {
     background-color: #212E50;
     color: white;
 }
+
+#contact, .copyright {
+    text-align: center;
+}
