@@ -28,3 +28,11 @@ h2 p {
 #contact, .copyright {
     text-align: center;
 }
+
+.nav-link { 
+    color: #fff !important;
+}
+
+.nav-link.active {
+    color: #000 !important
+}
