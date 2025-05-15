@@ -29,10 +29,10 @@ h2 p {
     text-align: center;
 }
 
-.nav-link { 
+#nav-home-tab, #nav-profile-tab, #nav-contact-tab { 
     color: #fff !important;
 }
 
-.nav-link.active {
+#nav-home-tab.active, #nav-profile-tab.active, #nav-contact-tab.active {
     color: #000 !important
 }
